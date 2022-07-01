@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Exercise\\Questions\\Questions.csproj": {}
+    "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\Questions\\Questions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Exercise\\Questions\\Questions.csproj": {
+    "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\Questions\\Questions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Exercise\\Questions\\Questions.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\Questions\\Questions.csproj",
         "projectName": "Questions",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Exercise\\Questions\\Questions.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\Questions\\Questions.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Exercise\\Questions\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\Questions\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

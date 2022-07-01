@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\source\\repos\\Exercise\\OjaileWebAPI\\OjaileWebAPI.csproj": {}
+    "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\OjaileWebAPI\\OjaileWebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\source\\repos\\Exercise\\ojaile.abstraction\\ojaile.abstraction.csproj": {
+    "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\ojaile.abstraction\\ojaile.abstraction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Exercise\\ojaile.abstraction\\ojaile.abstraction.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\ojaile.abstraction\\ojaile.abstraction.csproj",
         "projectName": "ojaile.abstraction",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Exercise\\ojaile.abstraction\\ojaile.abstraction.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\ojaile.abstraction\\ojaile.abstraction.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Exercise\\ojaile.abstraction\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\ojaile.abstraction\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\Exercise\\ojaile.facade\\ojaile.facade.csproj": {
+    "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\ojaile.facade\\ojaile.facade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Exercise\\ojaile.facade\\ojaile.facade.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\ojaile.facade\\ojaile.facade.csproj",
         "projectName": "ojaile.facade",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Exercise\\ojaile.facade\\ojaile.facade.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\ojaile.facade\\ojaile.facade.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Exercise\\ojaile.facade\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\ojaile.facade\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\Exercise\\ojaile.abstraction\\ojaile.abstraction.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Exercise\\ojaile.abstraction\\ojaile.abstraction.csproj"
+              "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\ojaile.abstraction\\ojaile.abstraction.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\ojaile.abstraction\\ojaile.abstraction.csproj"
               }
             }
           }
@@ -116,14 +116,14 @@
         }
       }
     },
-    "C:\\Users\\user\\source\\repos\\Exercise\\OjaileWebAPI\\OjaileWebAPI.csproj": {
+    "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\OjaileWebAPI\\OjaileWebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\source\\repos\\Exercise\\OjaileWebAPI\\OjaileWebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\OjaileWebAPI\\OjaileWebAPI.csproj",
         "projectName": "OjaileWebAPI",
-        "projectPath": "C:\\Users\\user\\source\\repos\\Exercise\\OjaileWebAPI\\OjaileWebAPI.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\OjaileWebAPI\\OjaileWebAPI.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\source\\repos\\Exercise\\OjaileWebAPI\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\OjaileWebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -140,8 +140,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\user\\source\\repos\\Exercise\\ojaile.facade\\ojaile.facade.csproj": {
-                "projectPath": "C:\\Users\\user\\source\\repos\\Exercise\\ojaile.facade\\ojaile.facade.csproj"
+              "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\ojaile.facade\\ojaile.facade.csproj": {
+                "projectPath": "C:\\Users\\user\\Documents\\OjaileWebAPIs\\Exercise\\ojaile.facade\\ojaile.facade.csproj"
               }
             }
           }
