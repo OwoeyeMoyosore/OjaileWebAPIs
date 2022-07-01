@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Exercise\ojaile.abstraction\bin\Debug\net6.0\ojaile.abstraction.deps.json
+C:\Users\user\source\repos\Exercise\ojaile.abstraction\bin\Debug\net6.0\ojaile.abstraction.dll
+C:\Users\user\source\repos\Exercise\ojaile.abstraction\bin\Debug\net6.0\ojaile.abstraction.pdb
+C:\Users\user\source\repos\Exercise\ojaile.abstraction\obj\Debug\net6.0\ojaile.abstraction.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exercise\ojaile.abstraction\obj\Debug\net6.0\ojaile.abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exercise\ojaile.abstraction\obj\Debug\net6.0\ojaile.abstraction.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exercise\ojaile.abstraction\obj\Debug\net6.0\ojaile.abstraction.AssemblyInfo.cs
+C:\Users\user\source\repos\Exercise\ojaile.abstraction\obj\Debug\net6.0\ojaile.abstraction.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exercise\ojaile.abstraction\obj\Debug\net6.0\ojaile.abstraction.dll
+C:\Users\user\source\repos\Exercise\ojaile.abstraction\obj\Debug\net6.0\refint\ojaile.abstraction.dll
+C:\Users\user\source\repos\Exercise\ojaile.abstraction\obj\Debug\net6.0\ojaile.abstraction.pdb
+C:\Users\user\source\repos\Exercise\ojaile.abstraction\obj\Debug\net6.0\ref\ojaile.abstraction.dll

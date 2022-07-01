@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ojaile.facade/1.0.0": {
+        "dependencies": {
+          "ojaile.abstraction": "1.0.0"
+        },
+        "runtime": {
+          "ojaile.facade.dll": {}
+        }
+      },
+      "ojaile.abstraction/1.0.0": {
+        "runtime": {
+          "ojaile.abstraction.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ojaile.facade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ojaile.abstraction/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

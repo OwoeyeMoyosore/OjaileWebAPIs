@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Exercise\Strings Questions\bin\Debug\net6.0\Strings Questions.exe
+C:\Users\user\source\repos\Exercise\Strings Questions\bin\Debug\net6.0\Strings Questions.deps.json
+C:\Users\user\source\repos\Exercise\Strings Questions\bin\Debug\net6.0\Strings Questions.runtimeconfig.json
+C:\Users\user\source\repos\Exercise\Strings Questions\bin\Debug\net6.0\Strings Questions.dll
+C:\Users\user\source\repos\Exercise\Strings Questions\bin\Debug\net6.0\Strings Questions.pdb
+C:\Users\user\source\repos\Exercise\Strings Questions\obj\Debug\net6.0\Strings Questions.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exercise\Strings Questions\obj\Debug\net6.0\Strings Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exercise\Strings Questions\obj\Debug\net6.0\Strings Questions.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exercise\Strings Questions\obj\Debug\net6.0\Strings Questions.AssemblyInfo.cs
+C:\Users\user\source\repos\Exercise\Strings Questions\obj\Debug\net6.0\Strings Questions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exercise\Strings Questions\obj\Debug\net6.0\Strings Questions.dll
+C:\Users\user\source\repos\Exercise\Strings Questions\obj\Debug\net6.0\refint\Strings Questions.dll
+C:\Users\user\source\repos\Exercise\Strings Questions\obj\Debug\net6.0\Strings Questions.pdb
+C:\Users\user\source\repos\Exercise\Strings Questions\obj\Debug\net6.0\Strings Questions.genruntimeconfig.cache
+C:\Users\user\source\repos\Exercise\Strings Questions\obj\Debug\net6.0\ref\Strings Questions.dll

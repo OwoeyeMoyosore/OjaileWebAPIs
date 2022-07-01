@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Exercise\Array Questions\bin\Debug\net6.0\Array Questions.exe
+C:\Users\user\source\repos\Exercise\Array Questions\bin\Debug\net6.0\Array Questions.deps.json
+C:\Users\user\source\repos\Exercise\Array Questions\bin\Debug\net6.0\Array Questions.runtimeconfig.json
+C:\Users\user\source\repos\Exercise\Array Questions\bin\Debug\net6.0\Array Questions.dll
+C:\Users\user\source\repos\Exercise\Array Questions\bin\Debug\net6.0\Array Questions.pdb
+C:\Users\user\source\repos\Exercise\Array Questions\obj\Debug\net6.0\Array Questions.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exercise\Array Questions\obj\Debug\net6.0\Array Questions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exercise\Array Questions\obj\Debug\net6.0\Array Questions.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exercise\Array Questions\obj\Debug\net6.0\Array Questions.AssemblyInfo.cs
+C:\Users\user\source\repos\Exercise\Array Questions\obj\Debug\net6.0\Array Questions.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exercise\Array Questions\obj\Debug\net6.0\Array Questions.dll
+C:\Users\user\source\repos\Exercise\Array Questions\obj\Debug\net6.0\refint\Array Questions.dll
+C:\Users\user\source\repos\Exercise\Array Questions\obj\Debug\net6.0\Array Questions.pdb
+C:\Users\user\source\repos\Exercise\Array Questions\obj\Debug\net6.0\Array Questions.genruntimeconfig.cache
+C:\Users\user\source\repos\Exercise\Array Questions\obj\Debug\net6.0\ref\Array Questions.dll

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Exercise\ojaile.facade\bin\Debug\net6.0\ojaile.facade.deps.json
+C:\Users\user\source\repos\Exercise\ojaile.facade\bin\Debug\net6.0\ojaile.facade.dll
+C:\Users\user\source\repos\Exercise\ojaile.facade\bin\Debug\net6.0\ojaile.facade.pdb
+C:\Users\user\source\repos\Exercise\ojaile.facade\bin\Debug\net6.0\ojaile.abstraction.dll
+C:\Users\user\source\repos\Exercise\ojaile.facade\bin\Debug\net6.0\ojaile.abstraction.pdb
+C:\Users\user\source\repos\Exercise\ojaile.facade\obj\Debug\net6.0\ojaile.facade.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Exercise\ojaile.facade\obj\Debug\net6.0\ojaile.facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exercise\ojaile.facade\obj\Debug\net6.0\ojaile.facade.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exercise\ojaile.facade\obj\Debug\net6.0\ojaile.facade.AssemblyInfo.cs
+C:\Users\user\source\repos\Exercise\ojaile.facade\obj\Debug\net6.0\ojaile.facade.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exercise\ojaile.facade\obj\Debug\net6.0\ojaile.facade.csproj.CopyComplete
+C:\Users\user\source\repos\Exercise\ojaile.facade\obj\Debug\net6.0\ojaile.facade.dll
+C:\Users\user\source\repos\Exercise\ojaile.facade\obj\Debug\net6.0\refint\ojaile.facade.dll
+C:\Users\user\source\repos\Exercise\ojaile.facade\obj\Debug\net6.0\ojaile.facade.pdb
+C:\Users\user\source\repos\Exercise\ojaile.facade\obj\Debug\net6.0\ref\ojaile.facade.dll
